@@ -5,9 +5,9 @@ import numpy as np
 # =============================
 # 1. Load model & preprocessing
 # =============================
-model = joblib.load("model/random_forest.pkl")
-scaler = joblib.load("model/scaler.pkl")
-encoder = joblib.load("model/encoder.pkl")
+model = joblib.load("random_forest.pkl")
+scaler = joblib.load("scaler.pkl")
+encoder = joblib.load("encoder.pkl")
 
 # =============================
 # 2. Judul aplikasi
