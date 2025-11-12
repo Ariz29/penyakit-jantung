@@ -1,0 +1,39 @@
+
+🔹 Kolom: Sex
+Sex
+M    725
+F    193
+Name: count, dtype: int64
+--------------------------------------------------
+
+🔹 Kolom: ChestPainType
+ChestPainType
+ASY    496
+NAP    203
+ATA    173
+TA      46
+Name: count, dtype: int64
+--------------------------------------------------
+
+🔹 Kolom: RestingECG
+RestingECG
+Normal    552
+LVH       188
+ST        178
+Name: count, dtype: int64
+--------------------------------------------------
+
+🔹 Kolom: ExerciseAngina
+ExerciseAngina
+N    547
+Y    371
+Name: count, dtype: int64
+--------------------------------------------------
+
+🔹 Kolom: ST_Slope
+ST_Slope
+Flat    460
+Up      395
+Down     63
+Name: count, dtype: int64
+--------------------------------------------------
